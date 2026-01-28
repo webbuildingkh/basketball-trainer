@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Elite Hoops Training</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <h1>Elite Hoops Training</h1>
+    <p>1-on-1 Basketball Training • All Skill Levels</p>
+    <a href="#contact" class="btn">Book a Session</a>
+  </header>
+
+  <!-- ABOUT -->
+  <section class="section">
+    <h2>About the Trainer</h2>
+    <p>
+      Former high-level player offering private basketball training focused on
+      shooting, ball-handling, footwork, and game IQ. Training customized for each athlete.
+    </p>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="section dark">
+    <h2>Training Packages</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>1-on-1 Training</h3>
+        <p>Personalized sessions focused on skill development.</p>
+      </div>
+      <div class="card">
+        <h3>Small Group Training</h3>
+        <p>Competitive workouts with 2–4 players.</p>
+      </div>
+      <div class="card">
+        <h3>Skill Clinics</h3>
+        <p>Shooting, defense, and conditioning clinics.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LOCATION -->
+  <section class="section">
+    <h2>Location</h2>
+    <p>Tustin & Orange County, CA</p>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section dark">
+    <h2>Contact</h2>
+    <p>Text or email to book a session</p>
+    <p><strong>📞 (555) 123-4567</strong></p>
+    <p><strong>📧 elitehoopstraining@email.com</strong></p>
+  </section>
+
+  <footer>
+    <p>© 2026 Elite Hoops Training</p>
+  </footer>
+
+</body>
+</html>
